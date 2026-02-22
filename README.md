@@ -50,23 +50,19 @@ when taking input from the command line.
 ### Here are screenshots of the application:
 #### 1. Main Menu 
 
-![Image description](src/com/librarymanagementsystem/screenshots/Main_Screenshot.png)
-
+<img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/88fc02c8-3084-4d19-816b-ef95d3a56d7e" />
 
 #### 2. Administrator Login
 
-![Image description](src/com/librarymanagementsystem/screenshots/Admin_Screenshot.png)
-
+<img width="339" height="240" alt="image" src="https://github.com/user-attachments/assets/07c2ed8c-bc95-4686-a8e0-091e939f7da3" />
 
 #### 3. Librarian Login
 
-![Image description](src/com/librarymanagementsystem/screenshots/Librarian_Screenshot.png)
-
+<img width="313" height="238" alt="image" src="https://github.com/user-attachments/assets/ac464f10-c400-4141-a31a-c6ffb0b60c19" />
 
 #### 4. Student Login
 
-![Image description](src/com/librarymanagementsystem/screenshots/Student_Screenshot.png)
-
+<img width="313" height="227" alt="image" src="https://github.com/user-attachments/assets/dfdef13c-d0fa-47d8-9154-0ac77b274675" />
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
